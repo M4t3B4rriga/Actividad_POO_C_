@@ -1,0 +1,14 @@
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\bin\Debug\net8.0\Aplicacion_POO.exe
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\bin\Debug\net8.0\Aplicacion_POO.deps.json
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\bin\Debug\net8.0\Aplicacion_POO.runtimeconfig.json
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\bin\Debug\net8.0\Aplicacion_POO.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\bin\Debug\net8.0\Aplicacion_POO.pdb
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.AssemblyInfoInputs.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.AssemblyInfo.cs
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\refint\Aplicacion_POO.dll
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.pdb
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\Aplicacion_POO.genruntimeconfig.cache
+D:\Users\sebas\Documents\SEMESTRES U\8OCTAVO NIVEL\DesarrolloWebAvanzado\Proyectos_visual\Aplicacion_POO\obj\Debug\net8.0\ref\Aplicacion_POO.dll
